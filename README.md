@@ -38,7 +38,7 @@ Para Desenvolvedores (Editar o Código):
 Instale o Ren'Py Launcher.
 Clone este repositório dentro do seu diretório de projetos do Ren'Py:
 Bash
-git clone https://github.com/seu-usuario/valeti.git
+git clone https://github.com/seu-usuario/Jogo-Valeti.git
 Abra o Ren'Py Launcher, selecione "Valeti" e clique em Launch Project.
 </p>
 <p>
