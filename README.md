@@ -7,7 +7,7 @@ Uma Visual Novel desenvolvida com a engine Ren'Py.
 Valeti é um jogo focado em narrativa e tomada de decisão. 
 O projeto explora a fantasia, onde as escolhas da pessoa jogadora moldam o curso da história e os relacionamentos entre os personagens.
 <br>
-Este projeto foi criado e desenvolvido por Leticia Martins Vianna e Vanessa Martins Vianna.
+Este projeto foi criado e desenvolvido por Let e Van.
 </p>
 🎮 Funcionalidades
 Sistema de Escolhas: Caminhos ramificados que levam a múltiplos finais.
