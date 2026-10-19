@@ -35,8 +35,9 @@ label start:
 """
 
 # Declare characters used by this game.
-define s = Character(_("Sylvie"), color="#c8ffc8")
-define m = Character(_("Me"), color="#c8c8ff")
+define v = Character(_("Valetin"), color="#bd6218")
+define f = Character(_("Fantasma"), color="#7373d9")
+define a = Character(_("Anjo"), color="#ccf001")
 
 # This is a variable that is True if you've compared a VN to a book, and False
 # otherwise.
@@ -90,13 +91,13 @@ label rightaway:
 
     show sylvie green smile
 
-    s "Hi there! How was class?"
+    f "Hi there! How was class?"
 
-    m "Good..."
+    a "Good..."
 
     "I can't bring myself to admit that it all went in one ear and out the other."
 
-    m "Are you going home now? Wanna walk back with me?"
+    v "Are you going home now? Wanna walk back with me?"
 
     s "Sure!"
 
